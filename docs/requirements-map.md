@@ -8,7 +8,7 @@ Sources were read on 18 November 2026.
 
 **Status:** signed 14 May 2026 (Chapter 131), per the [Colorado General Assembly's bill page](https://leg.colorado.gov/bills/sb26-189). The summary dates developer duties and the attorney general's rules to 1 January 2027 and gives no separate date for deployer duties. The [Playbook's 13 November 2026 source review](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/03-governance/review-2026-11-13.md) records the duties as applying to decisions on and after 1 January 2027. Confirm against the enrolled text.
 
-**What was read:** the legislature's summary of the act as enacted. The enrolled text and the attorney general's rules, due by 1 January 2027, were not read. Treat every row below as a summary to confirm against the text and the rules.
+**What was read:** the legislature's summary of the act as enacted. The enrolled text and the attorney general's rules, due by 1 January 2027, were not read. Treat every row below as a summary to confirm against the text and the rules. Current court-enforcement and rulemaking status were not verified either. Counsel must check the operative orders and rules before relying on these dates.
 
 | Duty in the summary | Second Look step | Enforced in code |
 |---|---|---|
