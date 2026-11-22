@@ -60,8 +60,7 @@ The fictional case: a screening tool sorts Jordan Rivera's application into the 
 
 ## How this was built
 
-- **Elle Helvig** defined the problem, directed the work, and approves everything published here.
-- **Claude** wrote the code, tests, and documentation under Elle's direction, and drafted the requirements map from the Colorado General Assembly's summary of the bill.
+Built with Claude, which wrote the code and tests under my direction. I defined the problem and approve everything published here.
 
 ## Author
 
