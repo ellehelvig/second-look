@@ -11,6 +11,8 @@ When an automated tool helps make an employment decision that goes against someo
 
 It is built around Colorado's automated decision-making law (SB 26-189), signed in May 2026 with duties starting 1 January 2027, and it keeps the EU timeline in view. Everything here is fictional. It is a reference design, not a product, and not legal advice.
 
+Current enforcement, court, and rulemaking status were not verified. Counsel should check before relying on these dates.
+
 ## The flow
 
 ```mermaid
