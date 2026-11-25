@@ -43,7 +43,7 @@ PROJECTS = {
         title=["Second Look"], title_mobile=["Second Look"],
         sub=["When an automated decision goes against someone."],
         sub_mobile=["When an automated decision", "goes against someone."],
-        chips=["NOTICE", "EXPLANATION", "HUMAN REVIEW"],
+        chips=["NOTICE", "EXPLANATION", "CORRECTION", "HUMAN REVIEW"],
         status="REFERENCE DESIGN / FICTIONAL DATA",
         foot="Notice, explanation, correction, and a different reviewer.",
         alt="Second Look. When an automated decision goes against someone: notice, explanation, correction, and human review by a different person.",
